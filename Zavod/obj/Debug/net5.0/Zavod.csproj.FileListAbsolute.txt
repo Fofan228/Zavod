@@ -1,0 +1,16 @@
+D:\Programm proects\Zavod\bin\Debug\net5.0\Zavod.exe
+D:\Programm proects\Zavod\bin\Debug\net5.0\Zavod.deps.json
+D:\Programm proects\Zavod\bin\Debug\net5.0\Zavod.runtimeconfig.json
+D:\Programm proects\Zavod\bin\Debug\net5.0\Zavod.runtimeconfig.dev.json
+D:\Programm proects\Zavod\bin\Debug\net5.0\Zavod.dll
+D:\Programm proects\Zavod\bin\Debug\net5.0\ref\Zavod.dll
+D:\Programm proects\Zavod\bin\Debug\net5.0\Zavod.pdb
+D:\Programm proects\Zavod\obj\Debug\net5.0\Zavod.csprojAssemblyReference.cache
+D:\Programm proects\Zavod\obj\Debug\net5.0\Zavod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programm proects\Zavod\obj\Debug\net5.0\Zavod.AssemblyInfoInputs.cache
+D:\Programm proects\Zavod\obj\Debug\net5.0\Zavod.AssemblyInfo.cs
+D:\Programm proects\Zavod\obj\Debug\net5.0\Zavod.csproj.CoreCompileInputs.cache
+D:\Programm proects\Zavod\obj\Debug\net5.0\Zavod.dll
+D:\Programm proects\Zavod\obj\Debug\net5.0\ref\Zavod.dll
+D:\Programm proects\Zavod\obj\Debug\net5.0\Zavod.pdb
+D:\Programm proects\Zavod\obj\Debug\net5.0\Zavod.genruntimeconfig.cache
